@@ -1,4 +1,4 @@
-# OpenWeatherMap Project
+# cats project
 By Lavender 
 -[Screenshot] (#screenshot)
 
