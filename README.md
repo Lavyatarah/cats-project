@@ -2,7 +2,7 @@
 By Lavender 
 -[Screenshot] (#screenshot)
 
-![Image](images/screenshot 1.png)
+![Image](./images/screenshot%201.png)
  [Table of Contents]
 - [Description](#description)
  - [Features](#features)
@@ -35,7 +35,7 @@ As a user of the application,you will be able to :
 * Clone to the repo : git clone https://github.com/Lavyatarah/cats-project
 * Unzip the folder
 * Open index.html on browser
-* Request access to location
+
 
 
 ## Live Link
