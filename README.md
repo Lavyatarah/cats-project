@@ -1,9 +1,8 @@
 # OpenWeatherMap Project
-By Lavender
+By Lavender 
 -[Screenshot] (#screenshot)
 
-![image](./screanshot 1.png)
-
+![Image](images/screenshot 1.png)
  [Table of Contents]
 - [Description](#description)
  - [Features](#features)
