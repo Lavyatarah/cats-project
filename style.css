@@ -1,0 +1,15 @@
+body{ 
+    background-color:#ff0000;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.card{
+    width: 200px;
+    background-color: aqua;
+    padding: 18px;
+    border-radius: 6px;
+    margin: 9px;
+}
